@@ -47,4 +47,5 @@ function clickStart(event) {
     .finally(() => {
       hideLoader();
     });
+    
 }
